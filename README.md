@@ -1,0 +1,4 @@
+Dictinary
+=========
+
+Dictinary on Android
